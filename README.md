@@ -1,5 +1,7 @@
 # 🍽️ Swiggy Sales Analysis — Python
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a60b4fa5-6274-42d0-b75e-ad870649e71b" />
+
 ## 📌 Project Overview
 
 This project performs **Swiggy Sales Analysis using Python** to understand sales performance, order trends, customer ratings, food categories, state-wise revenue, quarterly performance, and city-level sales.
@@ -764,27 +766,28 @@ The Veg vs Non-Veg classification provides a view of revenue contribution by foo
 # 📸 Project Visualizations
 
 Add the generated charts to your GitHub repository under the `images` folder.
-
-```markdown
+markdown
 ## Monthly Revenue Trend
 
-![Monthly Revenue Trend](images/monthly_sales.png)
+<img width="920" height="691" alt="image" src="https://github.com/user-attachments/assets/5bc3e953-ec68-45b8-b9b4-092f39464d5b" />
 
 ## Daily Revenue Trend
 
-![Daily Revenue Trend](images/daily_sales.png)
+<img width="920" height="559" alt="image" src="https://github.com/user-attachments/assets/db602bda-2e45-46f7-84b9-3d6796469348" />
 
 ## Veg vs Non-Veg Revenue
 
-![Food Category Revenue](images/food_category_sales.png)
+<img width="920" height="708" alt="image" src="https://github.com/user-attachments/assets/772d3087-9f04-4a1b-8e00-75c3c802754b" />
 
 ## Revenue by State
 
-![State Revenue](images/state_sales.png)
+<img width="920" height="850" alt="image" src="https://github.com/user-attachments/assets/ecfb9110-18ac-44de-9514-040a8c2908f7" />
+
 
 ## Top 5 Cities by Sales
 
-![Top 5 Cities](images/top_5_cities.png)
+<img width="920" height="511" alt="image" src="https://github.com/user-attachments/assets/947dd055-040d-44e4-b6de-bbe5d3c71dee" />
+
 ```
 
 ---
@@ -945,3 +948,6 @@ Quarterly Performance
 ## 📄 License
 
 This project is created for **educational, learning, and Data Analyst portfolio purposes**.
+
+** linkdin :https://www.linkedin.com/posts/madanapalli-sai-19b835389_best-free-certificate-courses-online-2025-activity-7490432956604268544-Asln?utm_source=share&utm_medium=member_android&rcm=ACoAAF-yhccBFOBRwPFDl9PAbb7jDVPGHyD_Tsc
+**  Github :https://github.com/stej07033
